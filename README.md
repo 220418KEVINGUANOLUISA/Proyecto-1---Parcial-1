@@ -29,7 +29,9 @@ Vista Esquemática.
 
 5.Video 
 
-6. Conclusiones 
+https://www.youtube.com/watch?v=LFotK_fvOVo&t=2s
+
+6.Conclusiones 
 
 Podemos concluir que la elaboración de este proyecto es de gran ayuda porque nos permite relacionarnos lo teórico con lo práctico, por medio de un funcionamiento de un sistema eléctrico que los vemos todos los días que es la iluminación automática de los postes de luz. Permitiéndonos dar una noción del como se pueden construir uno alumbrador automático a escala real y con materiales más completos.
 
