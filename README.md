@@ -29,7 +29,7 @@ Vista Esquemática.
 
 5.Video 
 
-https://www.youtube.com/watch?v=LFotK_fvOVo&t=2s
+https://www.youtube.com/watch?v=hfh6SRQ2sSA
 
 6.Conclusiones 
 
